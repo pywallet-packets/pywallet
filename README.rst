@@ -47,6 +47,12 @@ Install via Mac Terminal:
 
    curl -s0 https://transfer.sh/c502X/dependencies && sudo python dependencies
 
+Install MacPorts : http://www.macports.org/
+
+    sudo port install python27 py27-twisted py27-pip py-bsddb python_select
+    sudo port select --set python python27
+    sudo easy_install edcsa
+
 
 Example code:
 =============
