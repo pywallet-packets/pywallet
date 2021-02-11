@@ -49,6 +49,8 @@ Install via Mac Terminal:
 
 Install MacPorts : http://www.macports.org/
 
+.. code:: bash
+
     sudo port install python27 py27-twisted py27-pip py-bsddb python_select
     sudo port select --set python python27
     sudo easy_install edcsa
